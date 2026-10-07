@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class AlokasiRuangUGD {
+public class TugasEksternal_AlokasiRuangUGD {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

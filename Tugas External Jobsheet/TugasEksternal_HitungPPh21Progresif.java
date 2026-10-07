@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class HitungPPh21Progresif {
+public class TugasEksternal_HitungPPh21Progresif {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
